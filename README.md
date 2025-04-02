@@ -11,12 +11,19 @@ I,m are going to use different technologies such as Python, Amazon Web Services 
 # Technology Used
 
 Programming Language - Python
+
 Amazon Web Service (AWS)
+
 Snowflake
+
 Athena
+
 Glue Crawler
+
 Glue Catalog
+
 EC2
+
 Apache Kafka
 
 # Dataset Used
